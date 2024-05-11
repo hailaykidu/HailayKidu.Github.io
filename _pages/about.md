@@ -21,5 +21,5 @@ Feel free to contact me for academic collaboration. 
 
 Publications
 ------
-#(https://scholar.google.com/citations?user=DMFcxpgAAAAJ&hl=en&oi=sra).
+
 
