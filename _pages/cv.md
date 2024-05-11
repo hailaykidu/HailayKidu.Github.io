@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
 * Ph.D in Computer Science, Leibniz  University Hannover, 2022 -Present
