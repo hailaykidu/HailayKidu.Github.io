@@ -18,7 +18,7 @@ Work experience
 ======
 * From September 2019 – January 2021: Research fellow 
   * Beijing University of Technology
-  * Duties include: NLP research team specifically supervised machine learning
+  * Duties include NLP research team specifically supervised machine learning
   * Supervisor: Prof. Zhen Yang
 
 * From Sep. 30/2016 -August 2019: Assistant Professor
