@@ -15,7 +15,7 @@ Education
 * M.S. in Information Technology, Madras University India, 2012
 * B.S. in Business Education in Information Technology, Mekelle University, 2009
 
-Work experience
+Work experience 
 ======
 * From September 2019 – January 2021: Research fellow 
   * Beijing University of Technology
