@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Leibniz  University Hannover, 2022 -Present
 * M.S. in Information Technology, Madras University India, 2012
-* B.S. in Business Education in Information Technology, Mekelle University, 2009
+* B.S. in Business Education in Information Technology, Mekelle University, 2009 
 
 Work experience 
 ======
