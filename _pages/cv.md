@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Leibniz  University Hannover, 2022 -Present
+* M.S. in Information Technology, Madras University India, 2012
+* B.S. in Business Education in Information Technology, Mekelle University, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From September 2019 – January 2021: Research fellow 
+  * Beijing University of Technology
+  * Duties include: NLP research team specifically supervised machine learning
+  * Supervisor: Prof. Zhen Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From Sep. 30/2016 -August 2019: Assistant Professor
+  * Mekelle  University
+  * Duties included: Teaching and Advising Students, Member of Natural Language 
+    Processing for the Tigrinya research team
+ 
+Aug 05/2008 - Oct 11/2015, Research Assistant 
+  Gondar University 
+Oct 12/2015 - Sep. 29/2016, Research Assistant 
+  Adigrat University 
+* Summer 2012: Research Assistant
+  * Cyber Software Company,
+  * URL:https://cybersoft-intl.net/ 
+  * Duties included: System Analyst team leader 
+  * Supervisor: Tekestebrhan
+Oct 12 /2007 - Aug 04/2008, IT Administrator
+      Tigray Regional Educational Bureau.
+     *Task providing functional support for the regional network systems of School Net and WoredaNET of the region. 
   
 Skills
 ======
-* Skill 1
+* Skill 1Skills 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -43,7 +51,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site. publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -52,6 +60,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
   
 Teaching
 ======
