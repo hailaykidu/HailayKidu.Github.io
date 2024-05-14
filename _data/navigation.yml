@@ -3,7 +3,7 @@ main:
   -title: "About me"
    URL:/about me/
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=DMFcxpgAAAAJ
+    url: Publications.html
   - title: "Teaching"
     url: /teaching/    
             
